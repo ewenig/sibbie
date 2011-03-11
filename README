@@ -1,0 +1,7 @@
+SIBBIE - the SOAP-iButton Bathroom Integration Engine
+
+Files
+-----
+SOAPc/soapc.pl :: The SOAP client which runs on the backend 
+SOAPd/linux/soapd.bas :: The SOAP Daemon for Linux
+SOAPd/win32/soapd.bas :: The SOAP Daemon for Windows
